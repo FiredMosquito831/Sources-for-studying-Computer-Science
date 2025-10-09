@@ -1,6 +1,12 @@
 # Sources-for-studying-Computer-Science
 This is a repo where I will store many sources sites courses etc that are mostly Free/Freemium some with Premium options, which I consider to be the best in offering us what we need to grow as a programmer, AI engineer, cybersec expert etc (many sources for example hyperskill and Microsoft and Google offer many options, while others are limited to certain preferences such as fullstack web dev and data analysis+databases (ex: FreeCodeCamp or data analysis/ML (ex: Kaggle))
 
+# My other course/roadmap githubs
+
+
+### Cybersec: : [Cybersecs Roadmap (page link/website in README)](https://github.com/FiredMosquito831/learning-cybersec-roadmap)
+
+### AI/ML (work in progress many links are broken/placeholders): [AI ENGINEER ROADMAP Github (page link/website in README)](https://github.com/FiredMosquito831/AI-Engineer-Roadmap/blob/main/index.html)
 
 # 🧠 Ultimate Tech Learning Resource Map
 ### Development • AI/ML • Cybersecurity • DevOps • Cloud • Databases • Certifications
