@@ -1,5 +1,5 @@
 # Sources-for-studying-Computer-Science
-This is a repo where I will store many sources sites courses etc that are mostly Free/Freemium some with Premium options, which I consider to be the best in offering us what we need to grow as a programmer, AI engineer, cybersec expert etc (many sources for example hyperskill and Microsoft and Google offer many options, while others are limited)
+This is a repo where I will store many sources sites courses etc that are mostly Free/Freemium some with Premium options, which I consider to be the best in offering us what we need to grow as a programmer, AI engineer, cybersec expert etc (many sources for example hyperskill and Microsoft and Google offer many options, while others are limited to certain preferences such as fullstack web dev and data analysis+databases (ex: FreeCodeCamp or data analysis/ML (ex: Kaggle))
 
 
 # 🧠 Ultimate Tech Learning Resource Map
@@ -12,10 +12,10 @@ These cover multiple areas — web dev, programming, data, CS fundamentals, etc.
 
 | Platform | Type | Description |
 |-----------|------|-------------|
-| [FreeCodeCamp](https://www.freecodecamp.org/) | ✅ Free | Full-stack web dev (HTML, CSS, JS, React, Node, APIs, Databases, Python). Project-based; verified free certificates. |
+| [FreeCodeCamp](https://www.freecodecamp.org/) | ✅ Free | Full-stack web dev (HTML, CSS, JS, React, Node, APIs, Databases, Python). Project-based; verified free certificates. Also has many video and non video courses for others too (check archive too really important) |
 | [The Odin Project](https://www.theodinproject.com/) | ✅ Free | Open-source, full-stack curriculum (HTML, CSS, JS, Node.js, React, Ruby on Rails). Heavy focus on projects & deployment. |
-| [Hyperskill](https://hyperskill.org/) | 🟡 Freemium | Java, Python, Kotlin, C/C++, C#, Web, AI, Databases, Cybersec. Free = limited practice; Premium = projects + certificates. |
-| [Exercism](https://exercism.org/) | ✅ Free | Practice + mentor feedback across 60+ languages (Python, C#, Rust, Go, C/C++, Assembly, etc.). |
+| [Hyperskill](https://hyperskill.org/) | 🟡 Freemium | Java, Python, Kotlin, C/C++, C#, Web and many others, AI, Databases, Cybersec. Free = limited practice; Premium = projects + certificates. |
+| [Exercism](https://exercism.org/) | ✅ Free | Practice + mentor + learning paths (although full learning paths are limited to a few languages, the rest are practice with virtual console + projects, very good for practices across absolutely all languages including Assembly and others)feedback across 60+ languages (Python, C#, Rust, Go, C/C++, Assembly, etc.). |
 | [Codecademy](https://www.codecademy.com/) | 🟡 Freemium | Interactive lessons (Python, Web, AI, Security, DevOps). Pro unlocks projects & certs. |
 | [Mimo](https://mimo.org/) | 🟡 Freemium | Gamified micro-lessons in Python, JS, HTML/CSS, SQL – great for daily learning. |
 | [Sololearn](https://www.sololearn.com/) | 🟡 Freemium | Mobile-friendly platform covering many languages + community Q&A. |
