@@ -6,7 +6,7 @@ This is a repo where I will store many sources sites courses etc that are mostly
 
 ### Cybersec: : [Cybersecs Roadmap (page link/website in README)](https://github.com/FiredMosquito831/learning-cybersec-roadmap)
 
-### AI/ML (work in progress many links are broken/placeholders): [AI ENGINEER ROADMAP Github (page link/website in README)](https://github.com/FiredMosquito831/AI-Engineer-Roadmap/blob/main/index.html)
+### AI/ML (work in progress many links are broken/placeholders): [AI ENGINEER ROADMAP Github (page link/website in README)](https://github.com/FiredMosquito831/AI-Engineer-Roadmap)
 
 # 🧠 Ultimate Tech Learning Resource Map
 ### Development • AI/ML • Cybersecurity • DevOps • Cloud • Databases • Certifications
