@@ -1,20 +1,20 @@
 # Sources-for-studying-Computer-Science
 This is a repo where I will store many sources sites courses etc that are mostly Free/Freemium some with Premium options, which I consider to be the best in offering us what we need to grow as a programmer, AI engineer, cybersec expert etc (many sources for example hyperskill and Microsoft and Google offer many options, while others are limited to certain preferences such as fullstack web dev and data analysis+databases (ex: FreeCodeCamp or data analysis/ML (ex: Kaggle))
 
-# My other course/roadmap githubs or saved hubs
+# My other course/roadmap githubs or saved hubs (all links lead to other github repos of mine original or forked)
 
 
 ### Cybersec: : [Cybersecs Roadmap (page link/website in README)](https://github.com/FiredMosquito831/learning-cybersec-roadmap)
 
 ### AI/ML (work in progress many links are broken/placeholders): [AI ENGINEER ROADMAP Github (page link/website in README)](https://github.com/FiredMosquito831/AI-Engineer-Roadmap)
 
-### Free programming books github: (https://github.com/FiredMosquito831/free-programming-books)
+### Free programming books github: [Programming books](https://github.com/FiredMosquito831/free-programming-books)
 
-### Project based learning with sources (just another collection of links to other platforms free that give guided projects): (https://github.com/FiredMosquito831/project-based-learning-easier-)
+### Project based learning with sources (just another collection of links to other platforms free that give guided projects): [Simpler Project based learning](https://github.com/FiredMosquito831/project-based-learning-easier-)
 
-### Harder Project based learning (personally) more difficult projects: (https://github.com/FiredMosquito831/advanced-project)
+### Harder Project based learning (personally) more difficult projects: [Advanced Project based learning](https://github.com/FiredMosquito831/advanced-project)
 
-### Collection of AI ML OD etc projects: (https://github.com/FiredMosquito831/500-AI-ML-DL-CV-NLP-projects-with-code?tab=readme-ov-file)
+### Collection of AI ML OD etc projects: [AI and ML projects](https://github.com/FiredMosquito831/500-AI-ML-DL-CV-NLP-projects-with-code?tab=readme-ov-file)
 
 # 🧠 Ultimate Tech Learning Resource Map
 ### Development • AI/ML • Cybersecurity • DevOps • Cloud • Databases • Certifications
