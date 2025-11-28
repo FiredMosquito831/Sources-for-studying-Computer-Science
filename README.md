@@ -16,6 +16,7 @@ This is a repo where I will store many sources sites courses etc that are mostly
 
 ### Collection of AI ML OD etc projects: [AI and ML projects](https://github.com/FiredMosquito831/500-AI-ML-DL-CV-NLP-projects-with-code?tab=readme-ov-file)
 
+### Collection of free certifications: [Free cerifications](https://github.com/FiredMosquito831/Free-Certifications)
 # 🧠 Ultimate Tech Learning Resource Map
 ### Development • AI/ML • Cybersecurity • DevOps • Cloud • Databases • Certifications
 
